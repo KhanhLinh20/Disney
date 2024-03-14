@@ -1,0 +1,22 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --header-height: 46px;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Noto Sans', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    box-sizing: border-box;
+}
+
+.web {
+    overflow: hidden;
+}
